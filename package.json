@@ -1,0 +1,16 @@
+{
+  "name": "mc-afk-bot",
+  "version": "1.0.0",
+  "description": "mc afk bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mrenox",
+  "license": "ISC",
+  "dependencies": {
+    "mineflayer": "^4.6.0",
+    "mineflayer-antiafk": "^1.1.1",
+    "mineflayer-antiafk-noblockbreak": "^1.0.1"
+  }
+}
