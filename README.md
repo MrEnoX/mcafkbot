@@ -1,7 +1,7 @@
 # MCAfkBot
 Adjustable Minecraft AFK Bot
 
-# Features
+## Features
 1- Change Username
 
 2- Change Minecraft Server (ip)
@@ -14,7 +14,7 @@ Adjustable Minecraft AFK Bot
 
 6- Walk around
 
-# Instructions
+## Instructions
 1- Download the zip file from /releases
 
 2- Extract folder from zip
@@ -26,6 +26,6 @@ Adjustable Minecraft AFK Bot
 5- Done!
 
 
-# Information
+### Information
 
-This bot uses mineflayer and mineflayer-antiafk-noblockbreak
+This bot uses mineflayer and [mineflayer-antiafk-noblockbreak(https://github.com/MrEnoX/mineflayer-antiafk-noblockbreak)]
