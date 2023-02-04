@@ -24,3 +24,8 @@ Adjustable Minecraft AFK Bot
 4- Open start.bat file and bot will connect to your server and log all chat messages
 
 5- Done!
+
+
+# Information
+
+This bot uses mineflayer and mineflayer-antiafk-noblockbreak
