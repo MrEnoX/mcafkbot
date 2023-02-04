@@ -28,4 +28,4 @@ Adjustable Minecraft AFK Bot
 
 ### Information
 
-This bot uses mineflayer and [mineflayer-antiafk-noblockbreak(https://github.com/MrEnoX/mineflayer-antiafk-noblockbreak)]
+This bot uses mineflayer and [mineflayer-antiafk-noblockbreak](https://github.com/MrEnoX/mineflayer-antiafk-noblockbreak)
