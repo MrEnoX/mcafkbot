@@ -14,7 +14,7 @@ Adjustable Minecraft AFK Bot
 
 6- Walk around
 
-# Usage
+# Instructions
 1- Download the zip file from /releases
 
 2- Extract folder from zip
