@@ -1,7 +1,7 @@
 # MCAfkBot
 AFK Bot for Minecraft
 
-#Features
+# Features
 1- Change Username
 2- Change Minecraft Server (ip)
 3- Log all chat messages on the server
