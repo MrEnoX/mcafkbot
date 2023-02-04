@@ -1,5 +1,5 @@
 # MCAfkBot
-AFK Bot for Minecraft
+Adjustable Minecraft AFK Bot
 
 # Features
 1- Change Username
