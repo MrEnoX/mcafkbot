@@ -3,10 +3,15 @@ AFK Bot for Minecraft
 
 # Features
 1- Change Username
+
 2- Change Minecraft Server (ip)
+
 3- Log all chat messages on the server
+
 4- ReConnect after disconnect
+
 5- No block break
+
 6- Walk around
 
 # Usage
