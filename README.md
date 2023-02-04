@@ -21,7 +21,7 @@ Adjustable Minecraft AFK Bot
 
 3- Open index.js file and change host(server-ip) and username
 
-4- Open start.bat file and bot will connect to your server and log all chat messages
+4- Open start.bat file it will download the  packages for you and after downloading all packages bot will connect to your server and log all chat messages
 
 5- Done!
 
