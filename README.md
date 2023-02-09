@@ -8,7 +8,7 @@ Adjustable Minecraft AFK Bot
 
 3- Log all chat messages on the server
 
-4- ReConnect after disconnect
+4- ReConnect after disconnect until connect
 
 5- No block break
 
